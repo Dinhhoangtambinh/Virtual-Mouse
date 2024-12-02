@@ -1,6 +1,8 @@
-# Virtual-Mouse using MediaPipe and Ctypes
+# Virtual-Mouse sử dụng Media Pipe và Ctypes
 
-Supported Action:
-1. Left click
-2. Right click
-3. 
+Các hành động hỗ trợ:
+0. Di chuyển con trỏ chuột
+1. Nhấp chuột trái
+2. Nhấp chuột phải
+4. Nháy đúp
+5. Cuộn lên và xuống
