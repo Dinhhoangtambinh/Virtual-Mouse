@@ -1,1 +1,1 @@
-# Virtual-Mouse
+# Virtual-Mouse using MediaPipe and Ctypes
